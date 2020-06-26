@@ -16,3 +16,8 @@
 [2020-06-26T15:25:53.852] [Emissão]: 46033275870 acaba de pedir a emissão de uma NF no valor de R$ 1000.0!
 [2020-06-26T15:25:58.258] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
 [2020-06-26T15:26:01.782] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:44:50.418] [Consulta]: 4603 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:44:50.891] [Consulta]: 4603 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:44:50.897] [Consulta]: 4603 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:44:50.901] [Consulta]: 4603 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:44:50.906] [Consulta]: 4603 acaba de pedir os dados das suas notas fiscais.

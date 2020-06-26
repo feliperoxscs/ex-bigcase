@@ -1,7 +1,6 @@
 package com.mastertech.reativonotafiscal.service;
 
 import com.mastertech.notafiscal.dto.Emissao;
-import com.mastertech.reativonotafiscal.exceptions.ClienteNotFoundException;
 import com.mastertech.reativonotafiscal.model.ClienteEmissao;
 import com.mastertech.reativonotafiscal.model.Nfe;
 import com.mastertech.reativonotafiscal.repository.ClienteEmissaoRepository;
@@ -31,9 +30,6 @@ public class ClienteEmissaoService {
     public List<ClienteEmissao> getEmissao(String identidade) {
         List<ClienteEmissao> clienteEmissaoByIdentidade =
                 clienteEmissaoRepository.findClienteEmissaoByIdentidade(identidade);
-        if (clienteEmissaoByIdentidade.size() == 0) {
-            throw new ClienteNotFoundException();
-        }
         return clienteEmissaoByIdentidade;
     }
 }
