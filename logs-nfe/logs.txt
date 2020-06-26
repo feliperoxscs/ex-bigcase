@@ -1,0 +1,18 @@
+[2020-06-26T15:16:05.586] [Emissão]: 45997418000153 acaba de pedir a emissão de uma NF no valor de R$ 1000.0!
+[2020-06-26T15:18:49.973] [Consulta]: 45997418000153 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:19:14.99] [Emissão]: 46033275870 acaba de pedir a emissão de uma NF no valor de R$ 1000.0!
+[2020-06-26T15:21:40.359] [Emissão]: 46033275870 acaba de pedir a emissão de uma NF no valor de R$ 1000.0!
+[2020-06-26T15:22:10.619] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:22:30.616] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:10.166] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:11.016] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:11.548] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:12.349] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:13.154] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:17.597] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:18.583] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:24:27.925] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:25:41.504] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:25:53.852] [Emissão]: 46033275870 acaba de pedir a emissão de uma NF no valor de R$ 1000.0!
+[2020-06-26T15:25:58.258] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
+[2020-06-26T15:26:01.782] [Consulta]: 46033275870 acaba de pedir os dados das suas notas fiscais.
